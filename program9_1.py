@@ -1,4 +1,4 @@
-#Tony Tran | SPC ID: 2493354 | COP1000
+#Tony Tran | COP1000
 
 #Collaborator Statement: I worked alone
 
